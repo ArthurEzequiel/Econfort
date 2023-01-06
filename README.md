@@ -7,6 +7,24 @@ O projeto contem:
 - Sistema de Cadastro e Login; 
 - Painel de Administrador (Dashboard).
 
+Foi usado: 
+```JSON
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "knex": "^0.21.1",
+    "moment": "^2.29.4",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.3"
+
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+```
+
 Para rodar o projeto, você deve conter instalado na sua maquina: 
 - NodeJS;
 - MySQL;
