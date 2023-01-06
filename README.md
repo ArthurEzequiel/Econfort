@@ -17,7 +17,6 @@ Foi usado:
     "knex": "^0.21.1",
     "moment": "^2.29.4",
     "mysql": "^2.18.1",
-    "mysql2": "^2.3.3",
     "sequelize": "^6.21.3"
 
   "devDependencies": {
